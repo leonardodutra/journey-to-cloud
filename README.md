@@ -1,2 +1,2 @@
 # journey-to-cloud
-scripts to make and easier life migrating ec2 to docker services
+scripts to make life easier while migrating ec2 to docker services
